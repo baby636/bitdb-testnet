@@ -13,7 +13,7 @@
     "bcode": "0.0.6",
     "bigjq": "0.0.7",
     "bitcoind-rpc": "^0.7.2",
-    "dotenv": "^6.0.0",
+    "dotenv": "^9.0.2",
     "iconv-lite": "^0.4.24",
     "ip": "^1.1.5",
     "level": "^4.0.0",
